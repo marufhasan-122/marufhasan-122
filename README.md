@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Machine Learning Algorithms
 - 💻 All of my projects are available at[My Portfolio](https://github.com/marufhasan-122)
 - 🤖 Ask me about Machine Learning, Python
-- 📫 How to reach me: [ruhulamin43416@gmail.com](mailto:md.ruhulaminmaruf01@gmail.com)
+- 📫 How to reach me: [md.ruhulaminmaruf01@gmail.com](mailto:md.ruhulaminmaruf01@gmail.com)
 - ⚡ Fun fact: Laughing all Time
 🌐 Connect with me
 <p align="center">
