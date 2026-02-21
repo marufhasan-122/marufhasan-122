@@ -7,7 +7,7 @@
 - 🤖 Ask me about Machine Learning, Python
 - 📫 How to reach me: [md.ruhulaminmaruf01@gmail.com](mailto:md.ruhulaminmaruf01@gmail.com)
 - ⚡ Fun fact: Laughing all Time
-🌐 Connect with me
+- 🌐 Connect with me
 <p align="center">
   <a href="www.linkedin.com/in/ruhul-amin-142917270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="[https://facebook.com/](https://www.facebook.com/ruhul.amin.maruf.674372/)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
