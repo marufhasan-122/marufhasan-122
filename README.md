@@ -1,21 +1,46 @@
 <h1 align="center">Hi 👋, I'm Ruhul Amin Maruf</h1>
-<h3 align="center">Electronics & Communication Engineering | ML Enthusiast </h3>
+<h3 align="center">Electronics & Communication Engineering | Machine Learning Enthusiast</h3>
 
-- 🧠 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Machine Learning Algorithms
-- 💻 All of my projects are available at[My Portfolio](https://github.com/marufhasan-122)
-- 🤖 Ask me about Machine Learning, Python
-- 📫 How to reach me: [md.ruhulaminmaruf01@gmail.com](mailto:md.ruhulaminmaruf01@gmail.com)
-- ⚡ Fun fact: Laughing all Time
-- 🌐 Connect with me
+---
+
+## 🚀 About Me
+- 🎓 ECE Student  
+- 🧠 Working on Machine Learning & AI  
+- 🌱 Currently learning ML Algorithms & Deep Learning  
+- 🔬 Interested in Research (Healthcare AI, XAI, Recommender Systems)  
+- 💻 All projects: https://github.com/marufhasan-122  
+
+---
+
+## 🌐 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/ruhul-amin-142917270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://facebook.com/](https://www.facebook.com/ruhul.amin.maruf.674372/)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="[https://instagram.com/](https://www.instagram.com/ruhulamin43416?igsh=cGlmMXI2ZnF0Y3N2)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="[https://youtube.com/](https://www.youtube.com/channel/UCpmL-K7Tqk8KchbJoMXFLzw)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
- </p>
+  <a href="https://www.linkedin.com/in/ruhul-amin-142917270">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/ruhul.amin.maruf.674372/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ruhulamin43416">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCpmL-K7Tqk8KchbJoMXFLzw">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
- 🛠️ Languages and Tools
+---
+
+## 🔬 Academic Profile
+- 📄 Google Scholar: https://scholar.google.com/citations?user=DvlylQcAAAAJ&hl=en  
+
+---
+
+## 📫 Contact
+- 📧 Email: ruhulamin43416@gmail.com  
+
+---
+
+## 🛠️ Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -31,17 +56,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
-<!--
-**marufhasan-122/marufhasan-122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: 
+---
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Machine Learning Algorithm
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, Machine Learning
-- 📫 How to reach me: ruhulamin43416@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Laughing All time 
--->
+## ⚡ Fun Fact
+- 😄 I enjoy learning new things and exploring AI every day!
